@@ -1,2 +1,7 @@
-# Agri_AI
-App for Agriculture with Data Science in Python 
+# Prediction of Student Grade based on the last three yeas grades
+The main.py file is student grade predictor
+
+
+# Classification of Cars
+The classificationAlgo.py classifies cars using K-neighbours algorithm
+
